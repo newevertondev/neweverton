@@ -6,11 +6,10 @@
 
 
 <!-- GitHub Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=newevertondev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=newevertondev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0)
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newevertondev&layout=compact&langs_count=16&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newevertondev&layout=compact&langs_count=16&theme=dracula&cache_seconds=0)
 
 <div align="center"><br>
 
